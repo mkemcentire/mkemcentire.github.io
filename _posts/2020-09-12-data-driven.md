@@ -2,12 +2,12 @@
 layout: post
 title: How to be Data Driven
 date: 2020-09-12 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+description: Data is everywhere. Unfortunately, businesses underutilize the data they have due to a lack of understanding and data governance. As companies move more towards business intelligence, it’s important that a company’s culture becomes more data-centric.
+img: data-dashboard.jpg
 tags: [Data Analysis, Data Analyst, Data Driven, Big Data, Business Intelligence] # add tag
 ---
 
-**Data is everywhere.** Unfortunately businesses underutilize the data they have due to a lack of understanding and data governance. As companies move more towards business intelligence, it's important that a company's culture becomes more data-centric. We also need to understand our data first. We need to resolve data issues and _understand where our data capabilities fall short_. Having a full understanding of our data will help us avoid telling an incomplete, misleading, or inaccurate story. No matter how well presented our data is, if it does not tell the right story, then users will not get value from them. 
+**Data is everywhere.** Unfortunately, businesses underutilize the data they have due to a lack of understanding and data governance. As companies move more towards business intelligence, it's important that a company's culture becomes more data-centric. We also need to understand our data first. We need to resolve data issues and _understand where our data capabilities fall short_. Having a full understanding of our data will help us avoid telling an incomplete, misleading, or inaccurate story. No matter how well presented our data is, if it does not tell the right story, then users will not get value from them. 
 
 To become more data driven, companies should encourage their employees to research concepts, create a plan, and come to the table with actionable insights - instead of continuing to throw an idea at the wall and hope it sticks.  
 
