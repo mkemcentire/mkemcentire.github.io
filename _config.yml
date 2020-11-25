@@ -1,6 +1,6 @@
-title: Hello, world! I'm Mary McEntire
+title: Mary McEntire - Data Analyst
 description: > # this means to ignore newlines until "baseurl:"
-  Marketing meets Data Science
+  Mary McEntire is a marketing professional of 5 years with an emphasis in data visualization. Her love for data has encouraged her to pursue a career as a data analyst as she continues to push towards business intelligence. 
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
