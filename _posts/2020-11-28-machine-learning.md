@@ -7,7 +7,7 @@ img: machine-learning.jpg
 tags: [Data Analysis, Data Analyst, Data Driven, Big Data, Business Intelligence, Machine Learning, Decision Optimization]
 ---
 
-Machine learning is used all around us - in our work and personal lives - without many of us realizing that our daily tasks are being used to train algorithms that do everthing from increase our work efficiency to determine our buying patterns. It can be used to predict SEO rankings. It is used by social media platforms to predict user behavior. Amazon uses it for product promotion. And Google uses it for advertising optimization. Smart home devices, digital assistants, website recommendations based on previous web activity, spam filters for emails, robot vacuums, self driving cars and more are all examples of machine learning.
+Machine learning is used all around us - in our work and personal lives - without many of us realizing that our daily tasks are being used to train algorithms that do everything from increase our work efficiency to determine our buying patterns. It can be used to predict SEO rankings. It is used by social media platforms to predict user behavior. Amazon uses it for product promotion. And Google uses it for advertising optimization. Smart home devices, digital assistants, website recommendations based on previous web activity, spam filters for emails, robot vacuums, self driving cars and more are all examples of machine learning.
 
 And we can expect even more. As big data keeps getting bigger, computing becomes more powerful and affordable, and as we keep developing more capable algorithms, machine learning will drive greater results and efficiency in our personal and work lives. 
 
