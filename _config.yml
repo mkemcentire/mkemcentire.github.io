@@ -1,6 +1,6 @@
-title: Mary McEntire - Business Intelligence
+title: Mary McEntire - Marketing Analyst
 description: > # this means to ignore newlines until "baseurl:"
-  Mary McEntire is a marketing professional of 5 years with an emphasis in data visualization. Her love for data has encouraged her to pursue a career as a data analyst as she continues to push towards business intelligence. 
+  Mary McEntire is a marketing professional of 5 years with an emphasis in data visualization. Her love for data has encouraged her to pursue a career as a data analyst.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Mary McEntire
 author-img: mary-mcentire.jpg
-about-author: I am a marketing professional with a focus in Business Intelligence.
+about-author: Marketing Analyst specializing in SEO and eCommerce strategies. I have a passion for data visualization & automation.
 social-github: mkemcentire
 social-linkedin: marymcentire
 social-email: mke.mcentire@gmail.com
